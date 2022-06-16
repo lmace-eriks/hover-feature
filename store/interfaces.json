@@ -1,0 +1,6 @@
+{
+  "hoverfeature": {
+    "component": "HoverFeature",
+    "composition": "children"
+  }
+}
